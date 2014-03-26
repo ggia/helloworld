@@ -2,4 +2,15 @@ helloworld
 ==========
 
 Hello world testing repository
-Αυτή είναι μια αλλαγή.
+
+Για μεταγλώττιση, τρέξτε
+
+> make
+
+Για εκτέλεση
+
+> ./helloworld
+
+Για καθαρισμό του καταλόγου από το εκτελέσιμο
+
+> make clean
