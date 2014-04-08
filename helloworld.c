@@ -7,6 +7,7 @@ int main()
         printf("Γειά σας, ggia!\n");
 	printf("Γειά σας, petrolias (Χριστόφορος)!\n");
 	printf("Γεια σας, simos!\n");
+	printf("Γεια σας, Giannis!\n");
 printf("                 ¶¶¶¶¶¶¶¶¶¶¶¶\n");
 printf("                 ¶¶            ¶¶\n");
 printf("   ¶¶¶¶¶        ¶¶                ¶¶\n");
